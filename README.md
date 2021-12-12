@@ -11,4 +11,4 @@ the game design has specific path.
 # intialize board;
 # intaialize play game;
 
-the design of the board has differenet aspects.
+the design of the board has different aspects.
