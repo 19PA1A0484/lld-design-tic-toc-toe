@@ -12,3 +12,5 @@ the game design has specific path.
 # intaialize play game;
 
 the design of the board has different aspects.
+
+
